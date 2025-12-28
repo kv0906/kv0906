@@ -1,5 +1,3 @@
-# Why I Built PM-Kit
-
 There's a lie we tell Product Managers: *"You need to learn to code to be technical."*
 
 I spent years believing this. I'd start Python tutorials, abandon them. Try JavaScript, give up. Feel like an imposter in engineering meetings. The gap between "PM who writes specs" and "PM who builds things" felt insurmountable.
