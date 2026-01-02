@@ -1,4 +1,4 @@
-# Hey, I'm Van 👋
+# Hey, I'm Will 👋
 
 > **Building tools that amplify how humans work with AI.**
 
